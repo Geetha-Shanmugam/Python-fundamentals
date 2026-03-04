@@ -3,7 +3,7 @@
 
 ## About Me
 I am an experienced **Functional Test Lead** transitioning into the world of **AI Model Validation**. 
-I believe that mastering Python is the essential first step toward ensuring the quality and reliability of intelligent systems.
+I believe that mastering Python is the essential first step toward ensuring the quality and reliability of intelligent systems. As AI models use plenty of data, python helps to validate that trained data 
 
 ## Purpose
 This repository serves as my daily practice lab. My goal is to master necessary Python functionalities inorder to test AI models
